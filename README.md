@@ -3,7 +3,7 @@ This is an AI decision making platform to help surgeons in appendicitis diagnosi
 The software can be installed on all desktop/laptop devices 
 No need to have MATLAB installed on your device but it needs MATLABinstaller (attached with the platform)
 Steps for installation:
-Step 1: Download the whole pakage folder named "AI_Appendicitis"
+Step 1: Download the whole package folder named "AI_Appendicitis"
 Step 2: if there is no MATLABinstaller installed on the computer device: 
         open the folder named " for_redistribution" and double click on "MyAppInstaller_web"
 Step 3: If MATLABinstaller already installed on the computer device:
