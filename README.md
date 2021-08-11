@@ -9,5 +9,6 @@ Step 2: if there is no MATLAB RunTime installer installed on the computer device
 Step 3: If MATLAB RunTime installer is already installed on the computer device:
         go directly to the folder named "for_testing" and double click on " Querry Appendicitis"
 Step 4: Follow the given instructions for data input and then click the button "Display Data and Predict"
-![icon](https://user-images.githubusercontent.com/81948489/128957914-d5f6d6c5-0956-4e15-ab21-150f66f72ce1.png)
+![splash](https://user-images.githubusercontent.com/81948489/129050481-27176b33-cdf4-483b-9c52-6e818d5450c3.png)
+
 
